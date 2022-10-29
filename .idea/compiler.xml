@@ -8,15 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ratings-data-service" />
         <module name="movie-info-service" />
-        <module name="movie-catalog-service" />
         <module name="discovery-service" />
+        <module name="movie-catalog-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="discovery-service" target="19" />
-      <module name="movie-catalog-service" target="19" />
-      <module name="movie-info-service" target="19" />
-      <module name="ratings-data-service" target="19" />
+      <module name="discovery-service" target="18" />
+      <module name="movie-catalog-service" target="18" />
+      <module name="movie-info-service" target="18" />
+      <module name="ratings-data-service" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
